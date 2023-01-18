@@ -1,0 +1,28 @@
+{
+  "filmai": [
+    {
+      "name": "Guardians of the Galaxy",
+      "metai": "2014",
+      "zanras": "Action, Adventure, Comedy",
+      "arMatytas": true,
+      "image": "https://i.pinimg.com/474x/0c/c7/0c/0cc70cae1f62b215aee14211c78fe95e.jpg",
+      "id": 1
+    },
+    {
+      "name": "Guardians of the Galaxy Vol. 3",
+      "metai": "2023",
+      "zanras": "Action, Adventure, Comedy",
+      "arMatytas": false,
+      "image": "https://popculturetimes.com/wp-content/uploads/2019/12/9-2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ant-Man",
+      "metai": "2015",
+      "zanras": "Action, Adventure, Comedy",
+      "arMatytas": true,
+      "image": "https://www.themoviedb.org/t/p/w500/tmIrZCZo2Doe3bCSvN4hNXTbni5.jpg",
+      "id": 3
+    }
+  ]
+}

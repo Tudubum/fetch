@@ -1,0 +1,29 @@
+{
+    "kalnai":[
+      {
+        "pavadinimas": "kalno name",
+        "lokacija": "randasi ten ir ten",
+        "aukstisMetrais": 5002,
+        "arEsuIveikes": false,
+        "id": "65dfs1g"
+      },{
+        "pavadinimas": "kalno name1",
+        "lokacija": "randasi ten ir ten1",
+        "aukstisMetrais": 102,
+        "arEsuIveikes": true,
+        "id": "65dfs2g"
+      },{
+        "pavadinimas": "kalno name2",
+        "lokacija": "randasi ten ir ten2",
+        "aukstisMetrais": 562,
+        "arEsuIveikes": true,
+        "id": "65dfs3g"
+      },{
+        "pavadinimas": "kalno name3",
+        "lokacija": "randasi ten ir ten3",
+        "aukstisMetrais": 502,
+        "arEsuIveikes": false,
+        "id": "65dfs4g"
+      }
+    ]
+  }
